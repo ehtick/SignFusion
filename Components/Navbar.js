@@ -17,7 +17,7 @@ function Navbar() {
 
                 {/* Centered HACK-N-WIN 2.O */}
                 <div className="position-absolute start-50 translate-middle-x fw-bold" style={{ fontSize: '1.5rem', color: 'green' }}>
-                    National Science Day 
+                    FINGER SPEAK, AI LISTEN 
                 </div>
 
                 {/* Right-Aligned Navbar Toggler and Links */}
